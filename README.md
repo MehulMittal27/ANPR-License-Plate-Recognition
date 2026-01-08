@@ -11,7 +11,7 @@ AI/ML Engineer | Data Engineer
 
 ---
 
-## 📖 Overview
+## Overview
 
 This repository provides a production-ready **Automatic Number Plate Recognition (ANPR)** system combining computer vision and OCR technologies:
 
@@ -23,17 +23,17 @@ The system detects license plates in images, applies intelligent preprocessing, 
 
 ### Key Features
 
-- 🎯 High-accuracy plate detection using YOLOv3
-- 🔤 Multilingual OCR support with EasyOCR
-- 🛠️ Configurable pipeline via YAML configuration
-- 📊 Confidence scoring for detections
-- 🎨 Visual output with annotated images
-- 🐍 Clean Python code with type hints
-- 📦 Portfolio-ready structure
+- High-accuracy plate detection using YOLOv3
+- Multilingual OCR support with EasyOCR
+- Configurable pipeline via YAML configuration
+- Confidence scoring for detections
+- Visual output with annotated images
+- Clean Python code with type hints
+- Portfolio-ready structure
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ANPR-License-Plate-Recognition/
@@ -61,7 +61,7 @@ ANPR-License-Plate-Recognition/
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -99,7 +99,7 @@ See `models/README.md` for download links and detailed instructions.
 
 ---
 
-## ▶️ Usage
+## Usage
 
 ### Basic Usage
 
@@ -141,7 +141,7 @@ python src/main.py \
 
 ---
 
-## 📊 Example Output
+## Example Output
 
 Detected plate text with confidence scores printed in terminal, and annotated images saved in `build/outputs/`.
 
@@ -152,7 +152,7 @@ Detected plate text with confidence scores printed in terminal, and annotated im
 
 ---
 
-## 📁 Dataset & Models
+## Dataset & Models
 
 * **Datasets**: not included. Place your own test images in `data/`.
 * **Models**: not included. Add YOLOv3 config, weights, and classes to `models/`.
@@ -160,7 +160,7 @@ Detected plate text with confidence scores printed in terminal, and annotated im
 
 ---
 
-## ✨ Features
+## Features
 
 ### Core Capabilities
 * **License Plate Detection**: YOLOv3 with OpenCV DNN for robust detection
@@ -186,7 +186,7 @@ Detected plate text with confidence scores printed in terminal, and annotated im
 
 ---
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 ### Pipeline Flow
 
@@ -215,7 +215,7 @@ Preprocessing (Grayscale + Threshold) → EasyOCR → Text Output
 
 ---
 
-## 💡 Technical Highlights
+## Technical Highlights
 
 ### Computer Vision Techniques
 * **Object Detection**: YOLOv3 single-shot detector for real-time performance
@@ -237,7 +237,7 @@ Preprocessing (Grayscale + Threshold) → EasyOCR → Text Output
 
 ---
 
-## 🎯 Use Cases
+## Use Cases
 
 ### Law Enforcement
 - Traffic monitoring and enforcement
@@ -261,7 +261,7 @@ Preprocessing (Grayscale + Threshold) → EasyOCR → Text Output
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 ### Model Improvements
 - [ ] Upgrade to YOLOv8 for better accuracy and speed
@@ -296,7 +296,7 @@ Preprocessing (Grayscale + Threshold) → EasyOCR → Text Output
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Computer Vision & Deep Learning
 - **OpenCV**: Image processing and DNN module
@@ -317,7 +317,7 @@ Preprocessing (Grayscale + Threshold) → EasyOCR → Text Output
 
 ---
 
-## 📊 Performance Considerations
+## Performance Considerations
 
 ### Accuracy Factors
 - **Detection Rate**: Depends on image quality, lighting, angle
@@ -339,21 +339,13 @@ Preprocessing (Grayscale + Threshold) → EasyOCR → Text Output
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Contact
-
-**Mehul Mittal**  
-AI/ML Engineer | Data Engineer  
-Location: Fürth, Bavaria, Germany  
-Email: mehulmittal1299@gmail.com  
-GitHub: github.com/mehulmittal
 
 ---
 
