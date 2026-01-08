@@ -352,7 +352,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Mehul Mittal**  
 AI/ML Engineer | Data Engineer  
 Location: Fürth, Bavaria, Germany  
-Email: mehul.mittal@example.com  
+Email: mehulmittal1299@gmail.com  
 GitHub: github.com/mehulmittal
 
 ---
