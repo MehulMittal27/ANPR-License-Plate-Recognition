@@ -7,7 +7,7 @@
 
 **Author**: Mehul Mittal  
 AI/ML Engineer | Data Engineer  
-📧 mehul.mittal1299@gmail.com
+📧 mehulmittal1299@gmail.com
 
 ---
 
