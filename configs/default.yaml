@@ -1,0 +1,16 @@
+# configs/default.yaml
+input_dir: data
+model_dir: models
+
+# Relative to model_dir:
+cfg: config/darknet-yolov3.cfg
+weights: weights/model.weights
+classes: classes.names
+
+# EasyOCR languages
+langs: ["en"]
+
+# Thresholds
+score_thr: 0.25
+conf_thr: 0.10
+nms_iou: 0.45
